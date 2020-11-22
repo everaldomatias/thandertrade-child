@@ -1,0 +1,72 @@
+[12-Feb-2019 06:08:58 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/agpho470/public_html/clientes/thandertrade/wp-content/themes/thandertrade-child/inc/dependences.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agpho470/public_html/clientes/thandertrade/wp-content/themes/thandertrade-child/inc/dependences.php on line 8
+[12-Feb-2019 06:08:59 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/agpho470/public_html/clientes/thandertrade/wp-content/themes/thandertrade-child/inc/dependences.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agpho470/public_html/clientes/thandertrade/wp-content/themes/thandertrade-child/inc/dependences.php on line 8
+[12-Feb-2019 06:08:59 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/agpho470/public_html/clientes/thandertrade/wp-content/themes/thandertrade-child/inc/dependences.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agpho470/public_html/clientes/thandertrade/wp-content/themes/thandertrade-child/inc/dependences.php on line 8
+[12-Feb-2019 06:09:01 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/agpho470/public_html/clientes/thandertrade/wp-content/themes/thandertrade-child/inc/dependences.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agpho470/public_html/clientes/thandertrade/wp-content/themes/thandertrade-child/inc/dependences.php on line 8
+[12-Feb-2019 06:09:16 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/agpho470/public_html/clientes/thandertrade/wp-content/themes/thandertrade-child/inc/dependences.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agpho470/public_html/clientes/thandertrade/wp-content/themes/thandertrade-child/inc/dependences.php on line 8
+[12-Feb-2019 06:09:31 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/agpho470/public_html/clientes/thandertrade/wp-content/themes/thandertrade-child/inc/dependences.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agpho470/public_html/clientes/thandertrade/wp-content/themes/thandertrade-child/inc/dependences.php on line 8
+[12-Feb-2019 06:09:57 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/agpho470/public_html/clientes/thandertrade/wp-content/themes/thandertrade-child/inc/dependences.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agpho470/public_html/clientes/thandertrade/wp-content/themes/thandertrade-child/inc/dependences.php on line 8
+[12-Feb-2019 06:09:59 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/agpho470/public_html/clientes/thandertrade/wp-content/themes/thandertrade-child/inc/dependences.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agpho470/public_html/clientes/thandertrade/wp-content/themes/thandertrade-child/inc/dependences.php on line 8
+[12-Feb-2019 06:10:14 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/agpho470/public_html/clientes/thandertrade/wp-content/themes/thandertrade-child/inc/dependences.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agpho470/public_html/clientes/thandertrade/wp-content/themes/thandertrade-child/inc/dependences.php on line 8
+[12-Feb-2019 06:11:37 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/agpho470/public_html/clientes/thandertrade/wp-content/themes/thandertrade-child/inc/dependences.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agpho470/public_html/clientes/thandertrade/wp-content/themes/thandertrade-child/inc/dependences.php on line 8
+[12-Feb-2019 06:11:38 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/agpho470/public_html/clientes/thandertrade/wp-content/themes/thandertrade-child/inc/dependences.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agpho470/public_html/clientes/thandertrade/wp-content/themes/thandertrade-child/inc/dependences.php on line 8
+[12-Feb-2019 06:11:40 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/agpho470/public_html/clientes/thandertrade/wp-content/themes/thandertrade-child/inc/dependences.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agpho470/public_html/clientes/thandertrade/wp-content/themes/thandertrade-child/inc/dependences.php on line 8
+[12-Feb-2019 06:11:42 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/agpho470/public_html/clientes/thandertrade/wp-content/themes/thandertrade-child/inc/dependences.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agpho470/public_html/clientes/thandertrade/wp-content/themes/thandertrade-child/inc/dependences.php on line 8
+[12-Feb-2019 06:11:57 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/agpho470/public_html/clientes/thandertrade/wp-content/themes/thandertrade-child/inc/dependences.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agpho470/public_html/clientes/thandertrade/wp-content/themes/thandertrade-child/inc/dependences.php on line 8
+[12-Feb-2019 06:13:58 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/agpho470/public_html/clientes/thandertrade/wp-content/themes/thandertrade-child/inc/dependences.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agpho470/public_html/clientes/thandertrade/wp-content/themes/thandertrade-child/inc/dependences.php on line 8
+[12-Feb-2019 06:13:59 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/agpho470/public_html/clientes/thandertrade/wp-content/themes/thandertrade-child/inc/dependences.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agpho470/public_html/clientes/thandertrade/wp-content/themes/thandertrade-child/inc/dependences.php on line 8
+[12-Feb-2019 06:15:59 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/agpho470/public_html/clientes/thandertrade/wp-content/themes/thandertrade-child/inc/dependences.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agpho470/public_html/clientes/thandertrade/wp-content/themes/thandertrade-child/inc/dependences.php on line 8
+[12-Feb-2019 06:16:00 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/agpho470/public_html/clientes/thandertrade/wp-content/themes/thandertrade-child/inc/dependences.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agpho470/public_html/clientes/thandertrade/wp-content/themes/thandertrade-child/inc/dependences.php on line 8

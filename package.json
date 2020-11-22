@@ -1,0 +1,24 @@
+{
+  "name": "thandertrade-child",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "4.0.0",
+    "gulp-jshint": "2.1.0",
+    "gulp-livereload": "4.0.1",
+    "gulp-rename": "1.4.0",
+    "gulp-sass": "4.0.2",
+    "gulp-uglify": "3.0.1",
+    "gulp-watch": "5.0.1",
+    "jshint": "2.10.1",
+    "uglify": "0.1.5"
+  }
+}

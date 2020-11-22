@@ -1,0 +1,64 @@
+[22-Nov-2018 11:05:10 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/agpho470/public_html/clientes/thandertrade/wp-content/themes/thandertrade-child/inc/functions/roulette-sellers.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/agpho470/public_html/clientes/thandertrade/wp-content/themes/thandertrade-child/inc/functions/roulette-sellers.php on line 59
+[22-Nov-2018 11:05:11 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/agpho470/public_html/clientes/thandertrade/wp-content/themes/thandertrade-child/inc/functions/roulette-sellers.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/agpho470/public_html/clientes/thandertrade/wp-content/themes/thandertrade-child/inc/functions/roulette-sellers.php on line 59
+[22-Nov-2018 11:06:43 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/agpho470/public_html/clientes/thandertrade/wp-content/themes/thandertrade-child/inc/functions/roulette-sellers.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/agpho470/public_html/clientes/thandertrade/wp-content/themes/thandertrade-child/inc/functions/roulette-sellers.php on line 59
+[22-Nov-2018 11:06:45 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/agpho470/public_html/clientes/thandertrade/wp-content/themes/thandertrade-child/inc/functions/roulette-sellers.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/agpho470/public_html/clientes/thandertrade/wp-content/themes/thandertrade-child/inc/functions/roulette-sellers.php on line 59
+[22-Nov-2018 11:06:45 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/agpho470/public_html/clientes/thandertrade/wp-content/themes/thandertrade-child/inc/functions/roulette-sellers.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/agpho470/public_html/clientes/thandertrade/wp-content/themes/thandertrade-child/inc/functions/roulette-sellers.php on line 59
+[22-Nov-2018 11:06:46 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/agpho470/public_html/clientes/thandertrade/wp-content/themes/thandertrade-child/inc/functions/roulette-sellers.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/agpho470/public_html/clientes/thandertrade/wp-content/themes/thandertrade-child/inc/functions/roulette-sellers.php on line 59
+[22-Nov-2018 11:08:31 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/agpho470/public_html/clientes/thandertrade/wp-content/themes/thandertrade-child/inc/functions/roulette-sellers.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agpho470/public_html/clientes/thandertrade/wp-content/themes/thandertrade-child/inc/functions/roulette-sellers.php on line 8
+[22-Nov-2018 11:08:32 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/agpho470/public_html/clientes/thandertrade/wp-content/themes/thandertrade-child/inc/functions/roulette-sellers.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agpho470/public_html/clientes/thandertrade/wp-content/themes/thandertrade-child/inc/functions/roulette-sellers.php on line 8
+[22-Nov-2018 11:17:08 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/agpho470/public_html/clientes/thandertrade/wp-content/themes/thandertrade-child/inc/functions/roulette-sellers.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agpho470/public_html/clientes/thandertrade/wp-content/themes/thandertrade-child/inc/functions/roulette-sellers.php on line 8
+[22-Nov-2018 11:17:34 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/agpho470/public_html/clientes/thandertrade/wp-content/themes/thandertrade-child/inc/functions/roulette-sellers.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/agpho470/public_html/clientes/thandertrade/wp-content/themes/thandertrade-child/inc/functions/roulette-sellers.php on line 9
+[22-Nov-2018 11:17:43 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/agpho470/public_html/clientes/thandertrade/wp-content/themes/thandertrade-child/inc/functions/roulette-sellers.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agpho470/public_html/clientes/thandertrade/wp-content/themes/thandertrade-child/inc/functions/roulette-sellers.php on line 8
+[22-Nov-2018 11:17:44 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/agpho470/public_html/clientes/thandertrade/wp-content/themes/thandertrade-child/inc/functions/roulette-sellers.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agpho470/public_html/clientes/thandertrade/wp-content/themes/thandertrade-child/inc/functions/roulette-sellers.php on line 8
+[22-Nov-2018 11:18:13 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/agpho470/public_html/clientes/thandertrade/wp-content/themes/thandertrade-child/inc/functions/roulette-sellers.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agpho470/public_html/clientes/thandertrade/wp-content/themes/thandertrade-child/inc/functions/roulette-sellers.php on line 8
+[22-Nov-2018 11:18:28 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/agpho470/public_html/clientes/thandertrade/wp-content/themes/thandertrade-child/inc/functions/roulette-sellers.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agpho470/public_html/clientes/thandertrade/wp-content/themes/thandertrade-child/inc/functions/roulette-sellers.php on line 8
+[22-Nov-2018 11:19:39 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/agpho470/public_html/clientes/thandertrade/wp-content/themes/thandertrade-child/inc/functions/roulette-sellers.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/agpho470/public_html/clientes/thandertrade/wp-content/themes/thandertrade-child/inc/functions/roulette-sellers.php on line 2
+[22-Nov-2018 11:19:40 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/agpho470/public_html/clientes/thandertrade/wp-content/themes/thandertrade-child/inc/functions/roulette-sellers.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/agpho470/public_html/clientes/thandertrade/wp-content/themes/thandertrade-child/inc/functions/roulette-sellers.php on line 2

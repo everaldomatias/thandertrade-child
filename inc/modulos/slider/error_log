@@ -1,0 +1,15 @@
+[14-Dec-2018 17:52:30 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/agpho470/public_html/clientes/thandertrade/wp-content/themes/thandertrade-child/inc/modulos/slider/cpt-slider.php:43
+Stack trace:
+#0 /home/agpho470/public_html/clientes/thandertrade/wp-content/themes/thandertrade-child/inc/modulos/slider/mod-slider.php(10): require_once()
+#1 {main}
+  thrown in /home/agpho470/public_html/clientes/thandertrade/wp-content/themes/thandertrade-child/inc/modulos/slider/cpt-slider.php on line 43
+[14-Dec-2018 17:53:25 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/agpho470/public_html/clientes/thandertrade/wp-content/themes/thandertrade-child/inc/modulos/slider/cpt-slider.php:43
+Stack trace:
+#0 /home/agpho470/public_html/clientes/thandertrade/wp-content/themes/thandertrade-child/inc/modulos/slider/mod-slider.php(10): require_once()
+#1 {main}
+  thrown in /home/agpho470/public_html/clientes/thandertrade/wp-content/themes/thandertrade-child/inc/modulos/slider/cpt-slider.php on line 43
+[14-Dec-2018 17:53:26 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/agpho470/public_html/clientes/thandertrade/wp-content/themes/thandertrade-child/inc/modulos/slider/cpt-slider.php:43
+Stack trace:
+#0 /home/agpho470/public_html/clientes/thandertrade/wp-content/themes/thandertrade-child/inc/modulos/slider/mod-slider.php(10): require_once()
+#1 {main}
+  thrown in /home/agpho470/public_html/clientes/thandertrade/wp-content/themes/thandertrade-child/inc/modulos/slider/cpt-slider.php on line 43

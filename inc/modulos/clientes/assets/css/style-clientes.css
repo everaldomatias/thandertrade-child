@@ -1,0 +1,10 @@
+/*
+ * Default style of the Clientes.
+ */
+ul.slick-slider {
+	padding-left: 0;
+}
+ul.slick-slider.slick-initialized li.slick-slide {
+	display: inline-block;
+	padding: 15px;
+}
