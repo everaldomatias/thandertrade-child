@@ -2323,3 +2323,17 @@ input.button.raq-send-request:hover {
     color: #fff;
     opacity: 0.7;
 }
+
+/* Modal */
+.modal-content {
+    margin-top: 15vh;
+    max-width: 600px !important;
+    overflow: hidden;
+}
+.modal-dialog {
+    max-width: 600px !important;
+}
+.modal-body {
+    min-width: 600px;
+    max-width: 100%;
+}

@@ -22,7 +22,7 @@ global $post, $woocommerce, $product;
 			$image_title 	= esc_attr( get_the_title( get_post_thumbnail_id() ) );
 			$image_caption 	= get_post( get_post_thumbnail_id() )->post_excerpt;
 			$image_link  	= wp_get_attachment_url( get_post_thumbnail_id() );
-			$image       	= get_the_post_thumbnail( $post->ID, apply_filters( 'single_product_large_thumbnail_size', 'shop_single' ), array(
+			$image       	= get_the_post_thumbnail( $post->ID, ['600', '600'], array(
 				'title'	=> $image_title,
 				'alt'	=> $image_title
 				) );

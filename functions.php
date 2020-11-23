@@ -358,3 +358,16 @@ add_action( 'no_products_in_list', 'storefront_child_custom_no_products_in_list'
 function storefront_child_custom_no_products_in_list() {
 	echo '<span class="no_products_in_list">Sua lista de Orçamentos está vazia no momento! <a href="' . esc_url( home_url( 'produtos' ) ) . '">Clique aqui para voltar à lista de produtos!</a>.</span>';
 }
+
+/**
+ * Redireciona o acesso de algumas páginas `['cart', 'checkout', 'carrinho']` para o orçamento
+ *
+ * @return void
+ */
+function tt_redirect_cart() {
+	if (!is_admin() && is_page(['cart', 'checkout', 'carrinho'])) {
+		wp_redirect(home_url('orcamento'));
+		exit;
+	}
+}
+add_action('pre_get_posts', 'tt_redirect_cart');
