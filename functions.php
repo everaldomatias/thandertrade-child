@@ -371,3 +371,37 @@ function tt_redirect_cart() {
 	}
 }
 add_action('pre_get_posts', 'tt_redirect_cart');
+
+/**
+ * Altera links do rodapé na versão mobile
+ *
+ * @param [type] $links
+ * @return void
+ */
+function tt_change_footer_links($links)
+{
+	unset($links['my-account']);
+	
+	return $links;
+}
+add_filter('storefront_handheld_footer_bar_links', 'tt_change_footer_links');
+
+function tt_add_home_link($links)
+{
+	$new_links = array(
+		'home' => array(
+			'priority' => 10,
+			'callback' => 'tt_home_link',
+		),
+	);
+	
+	$links = array_merge($new_links, $links);
+	
+	return $links;
+}
+add_filter('storefront_handheld_footer_bar_links', 'tt_add_home_link');
+
+function tt_home_link()
+{
+	echo '<a href="' . esc_url(home_url('/')) . '">' . __('Home') . '</a>';
+}

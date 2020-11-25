@@ -2337,3 +2337,14 @@ input.button.raq-send-request:hover {
     min-width: 600px;
     max-width: 100%;
 }
+
+/* Footer Mobile */
+.storefront-handheld-footer-bar ul li.home>a:before {
+    content: "\f015";
+}
+
+footer.site-footer .storefront-handheld-footer-bar ul li .site-search .widget_product_search .woocommerce-product-search .search-field {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    padding-left: 45px !important;
+}
