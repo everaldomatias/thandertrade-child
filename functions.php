@@ -326,18 +326,18 @@ function loop_products_view() {
 <ul class="woocommerce columns-4 products">
 	<?php
 		$args = array(
-			'post_type' => 'product',
-			'posts_per_page' => 8,
-			'meta_query' => array(
-					array(
-						'key' => 'count_view',
-						'type' => 'numeric',
-					)
+			'post_type'           => 'product',
+			'posts_per_page'      => 8,
+			'ignore_sticky_posts' => 1,
+			'tax_query'           => array(
+				array(
+					'taxonomy' => 'product_cat',
+					'field'    => 'slug',
+					'terms'    => 'mais-vendidos'
 				),
-			'orderby' => array(
-				'count_view' => 'DESC'
 			),
-			);
+			'orderby' => 'rand'
+		);
 		$loop = new WP_Query( $args );
 		if ( $loop->have_posts() ) {
 			while ( $loop->have_posts() ) : $loop->the_post();
