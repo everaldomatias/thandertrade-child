@@ -381,6 +381,12 @@ add_action('pre_get_posts', 'tt_redirect_cart');
 function tt_change_footer_links($links)
 {
 	unset($links['my-account']);
+	unset($links['search']);
+	unset($links['cart']);
+
+	if (is_page('orcamento')) {
+		unset($links['quote']);
+	}
 	
 	return $links;
 }
@@ -393,9 +399,21 @@ function tt_add_home_link($links)
 			'priority' => 10,
 			'callback' => 'tt_home_link',
 		),
+		'search'     => array(
+			'priority' => 20,
+			'callback' => 'storefront_handheld_footer_bar_search',
+		),
+		'quote' => [
+			'priority' => 30,
+			'callback' => 'tt_quote_link',
+		]
 	);
-	
+
 	$links = array_merge($new_links, $links);
+
+	if (is_page('orcamento')) {
+		unset($links['quote']);
+	}
 	
 	return $links;
 }
@@ -404,4 +422,9 @@ add_filter('storefront_handheld_footer_bar_links', 'tt_add_home_link');
 function tt_home_link()
 {
 	echo '<a href="' . esc_url(home_url('/')) . '">' . __('Home') . '</a>';
+}
+
+function tt_quote_link()
+{
+	echo '<a href="' . esc_url(home_url('/orcamento')) . '">' . __('Orçamento') . add_qtd_itens_menu() . '</a>';
 }
